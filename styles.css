@@ -18,7 +18,6 @@ body {
 .scroller__inner {
   list-style: none;
   display: flex;
-  border: 1px solid red;
   flex-wrap: wrap;
 }
 
